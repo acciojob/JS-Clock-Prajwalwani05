@@ -1,7 +1,10 @@
 /* Your CSS Code here. */
 .min-hand{
-	tranform:matrix(0.207912, 0.978148, -0.978148, 0.207912, 0, 0);
+   transform-origin:bottom;
 }
 .hour-hand{
-	tranform:matrix(-0.857167, 0.515038, -0.515038, -0.857167, 0, 0);
+  transform-origin:bottom;
+}
+.sec-hand{
+	transform-origin:bottom;
 }
