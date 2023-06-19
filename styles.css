@@ -1,1 +1,7 @@
 /* Your CSS Code here. */
+.min-hand{
+	tranform:matrix(0.669131, 0.743145, -0.743145, 0.669131, 0, 0);
+}
+.hour-hand{
+	tranform:matrix(-0.833886, 0.551937, -0.551937, -0.833886, 0, 0);
+}
